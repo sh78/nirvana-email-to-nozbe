@@ -1,0 +1,35 @@
+{
+  "name": "nirvana-email-to-nozbe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh78/nirvana-email-to-nozbe.git"
+  },
+  "keywords": [
+    "nirvana",
+    "nozbe",
+    "import",
+    "export",
+    "email"
+  ],
+  "author": "Sean Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh78/nirvana-email-to-nozbe/issues"
+  },
+  "homepage": "https://github.com/sh78/nirvana-email-to-nozbe#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
