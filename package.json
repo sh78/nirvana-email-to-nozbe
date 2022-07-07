@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/sh78/nirvana-email-to-nozbe#readme",
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
